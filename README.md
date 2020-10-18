@@ -5,4 +5,4 @@
 | Название проекта | Описание | Используемые библиотеки|
 | --- | --- | --- |
 | [4. Изучение закономерностей, определющих успешность игр](https://github.com/Zackanick/yandex_praktikum_projects/tree/main/computer_games-success_sale) | Выявление закономерностей, определяющих успешность игры для продвижения потенциально наиболее популярного продукта и планирования рекламных кампаний | Python, Pandas, NumPy, Matplotlib
-| [5. Проверка гипотезы о повышении спроса на авиабилеты во время крупных фестивалей (https://github.com/Zackanick/yandex_praktikum_projects/tree/main/demand_generation_in_avia_sales) | Выгрузка и подготовка данных авиакомпаний с помощью SQL, проверка гипотезы о различии среднего спроса на билеты во время различных событий| SQL, Python, Pandas, Matplotlib, SciPy
+| [5. Проверка гипотезы о повышении спроса на авиабилеты во время крупных фестивалей](https://github.com/Zackanick/yandex_praktikum_projects/tree/main/demand_generation_in_avia_sales) | Выгрузка и подготовка данных авиакомпаний с помощью SQL, проверка гипотезы о различии среднего спроса на билеты во время различных событий| SQL, Python, Pandas, Matplotlib, SciPy
